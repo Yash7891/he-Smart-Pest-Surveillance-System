@@ -155,10 +155,6 @@ Published at ICITSC (FusionX Global) 2025
 
 👨‍💻 Author
 
-Pranav Mahadev Raikar
-B.Tech – Computer Science and Design
-Dr. D. Y. Patil Vidyapeeth, Pune
+Yash Minde
 
-📧 pranavraikar70@gmail.com
-
-📱 +91-9699118054
+📧 mindeyn7891@gmail.com
